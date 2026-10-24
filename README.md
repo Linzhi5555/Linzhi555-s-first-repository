@@ -1,7 +1,7 @@
 # 🐱 Jie — ESP32-C3 Virtual Pet
 
 "Jie" is a small virtual pet project based on the ESP32-C3 SuperMini and an OLED display. It features animated cat expressions and interactive functions, bringing a simple virtual pet to life on a tiny screen.
-//It's a birthday gift for my best friend.
+It's a birthday gift for my best friend.
 
 This repository is published for project demonstration and portfolio purposes.
 
